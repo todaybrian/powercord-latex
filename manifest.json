@@ -6,8 +6,5 @@
     "license": "MIT",
     "dependencies": [
       "pc-commands"
-    ],
-    "permissions": [ 
-        "" 
     ]
 }
