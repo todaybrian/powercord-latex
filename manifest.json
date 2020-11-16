@@ -1,0 +1,13 @@
+{
+    "name": "Latex",
+    "version": "0.0.1",
+    "description": "Client Side Latex Render",
+    "author": "B13i5n#5350",
+    "license": "MIT",
+    "dependencies": [
+      "pc-commands"
+    ],
+    "permissions": [ 
+        "" 
+    ]
+}
