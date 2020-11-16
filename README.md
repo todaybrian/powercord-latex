@@ -1,2 +1,2 @@
 # powercord-latex
-Send Latex Messages
+Send Latex Messages. This uses the codecogs api.
